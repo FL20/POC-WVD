@@ -36,7 +36,7 @@
         }
     },
     "variables": {
-         "_artifactsLocation": "https://raw.githubusercontent.com/stgeorgi/wvdquickstart/master",
+         "_artifactsLocation": "https://raw.githubusercontent.com/FL20/POC-WVD/master",
         "AdminPasswordSecret": "adminPassword",
         "domainUsername": "domainJoiner",
         "vnetName": "aaddsVnet",
